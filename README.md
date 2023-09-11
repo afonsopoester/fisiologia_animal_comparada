@@ -13,9 +13,10 @@ Figuras:
 
 ![](https://raw.githubusercontent.com/afonsopoester/fisiologia_animal_comparada/main/Figure_4.jpeg)
 
-![](https://raw.githubusercontent.com/afonsopoester/fisiologia_animal_comparada/main/Figure_5a.jpeg)
 
-![](https://raw.githubusercontent.com/afonsopoester/fisiologia_animal_comparada/main/Figure_5b.jpeg)
+![](https://raw.githubusercontent.com/afonsopoester/fisiologia_animal_comparada/main/Figure_5a.jpeg) | ![](https://raw.githubusercontent.com/afonsopoester/fisiologia_animal_comparada/main/Figure_5b.jpeg)
+
+
 
 ![](https://raw.githubusercontent.com/afonsopoester/fisiologia_animal_comparada/main/Figure_6.jpeg)
 
