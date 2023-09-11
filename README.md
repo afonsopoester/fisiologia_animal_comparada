@@ -6,4 +6,4 @@ Esses gráficos comparam concentrações de amônia e oxigênio e população de
 
 Figuras:
 
-!(https://github.com/afonsopoester/fisiologia_animal_comparada/blob/main/Figure_3.jpeg)
+![](https://github.com/afonsopoester/fisiologia_animal_comparada/blob/main/Figure_3.jpeg)
